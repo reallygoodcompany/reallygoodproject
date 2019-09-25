@@ -47,7 +47,7 @@ sensibilities of value, takes form.
 And yet, the object of RGF is not prevailing in one's own point- not in the
 slightest. Rather, it is intended to promote understanding, both of the self,
 and of others- to help mold one's own individual notions of value, worth and
-meaning, and to instill a sense of respect alternative perspectives. The
+meaning, and to instill a sense of respect for alternative perspectives. The
 community exhortation: to abhor the absolute, making no statements of fact, but
 instead, endeavoring that any and all conversation should reflect the fact of
-our limited reference frames.
+our limited frames of reference. 
