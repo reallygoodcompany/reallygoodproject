@@ -28,11 +28,13 @@ RGT is a platform designed to facilitate high-quality, effective communication
 of the above, with an emphasis on clarity, precision, and correctness. It is
 _not_ a place for hyperbole or emotion, nor for even sober assessments as to
 what is right, good and true, and what is not. Rather, it is a place only for
-reporting what others have seen and said, and what may meanginfully be
+reporting what others have seen and said, and what may meaningfully be
 established as irrefutably true or false.
 
-The only judgments to be passed on RGT are those critiques, supported by
-evidence, that dispute the veracity and faithfulness of information presented.
+The only judgments to be passed on RGT are critiques of the efficacy of an
+author's work in communicating those ideas with which it concerns itself; as
+well as those disputes, supported by evidence, concerning the veracity and
+faithfulness of information presented.
 
 ## Really Good Forum
 
