@@ -40,12 +40,14 @@ faithfulness of information presented.
 
 By contrast, the Really Good Forum (RGF) is meant to be, as the name suggests,
 the home of argumentation: a place of self-discovery, rhetorical persuasion,
-and dialectic inquiry. It a place where curious discussion of ideas, rooted in
-individual sensibilities of value, take place. 
+and dialectic inquiry. It is to provide meeting places both private and public,
+whereby curious discussion and debate of ideas, rooted in individual
+sensibilities of value, takes form.
 
-And yet, the object of RGF is not prevailing- not in the slightest. Rather, it
-is intended to promote the understanding of the self and of others- to help
-mold one's own individual notions of value, worth and meaning, and to instill a
-sense of respect for those of others. The community exhortation: to abhor the
-absolute, making no statements of fact, but instead, endeavoring that all
-conversation should reflect our limited reference frames.
+And yet, the object of RGF is not prevailing in one's own point- not in the
+slightest. Rather, it is intended to promote understanding, both of the self,
+and of others- to help mold one's own individual notions of value, worth and
+meaning, and to instill a sense of respect alternative perspectives. The
+community exhortation: to abhor the absolute, making no statements of fact, but
+instead, endeavoring that any and all conversation should reflect the fact of
+our limited reference frames.
